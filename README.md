@@ -1,2 +1,25 @@
-# Technical-Writing--Docs-Spreadsheet-Calculator-Bundle
-10 pre-built calculators, trackers, and dashboards for common Technical Writing &amp; Docs calculations. Instant spreadsheet tools without building from scratch.
+# Technical Writing & Docs Spreadsheet Calculator Bundle
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/dRmbJ112DcYI5tu1Zid0q1f)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/dRmbJ112DcYI5tu1Zid0q1f)
+
